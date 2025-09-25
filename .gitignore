@@ -1,0 +1,26 @@
+# Thư mục hệ thống
+.DS_Store
+Thumbs.db
+
+# Cache và môi trường ảo Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.env/
+.venv/
+*.env
+*.venv
+ENV/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# Log file
+*.log
